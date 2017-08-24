@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: c80723adc8968f24a835125e5e693afc
+timeCreated: 1426234457
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: SUV_exterior
+    100002: SUV_interior
+    100004: SUV_wheel_front_left
+    100006: SUV_wheel_front_right
+    100008: SUV_wheel_rear_left
+    100010: SUV_wheel_rear_right
+    100012: //RootNode
+    400000: SUV_exterior
+    400002: SUV_interior
+    400004: SUV_wheel_front_left
+    400006: SUV_wheel_front_right
+    400008: SUV_wheel_rear_left
+    400010: SUV_wheel_rear_right
+    400012: //RootNode
+    2300000: SUV_exterior
+    2300002: SUV_interior
+    2300004: SUV_wheel_front_left
+    2300006: SUV_wheel_front_right
+    2300008: SUV_wheel_rear_left
+    2300010: SUV_wheel_rear_right
+    3300000: SUV_exterior
+    3300002: SUV_interior
+    3300004: SUV_wheel_front_left
+    3300006: SUV_wheel_front_right
+    3300008: SUV_wheel_rear_left
+    3300010: SUV_wheel_rear_right
+    4300000: SUV_interior
+    4300002: SUV_wheel_rear_left
+    4300004: SUV_wheel_rear_right
+    4300006: SUV_wheel_front_right
+    4300008: SUV_wheel_front_left
+    4300010: SUV_exterior
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SUV_exterior
+        weight: 1
+      - path: SUV_interior
+        weight: 1
+      - path: SUV_wheel_front_left
+        weight: 1
+      - path: SUV_wheel_front_right
+        weight: 1
+      - path: SUV_wheel_rear_left
+        weight: 1
+      - path: SUV_wheel_rear_right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
