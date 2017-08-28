@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{1DAC3C8B-3A05-000E-2864-3FFE130CD3EE}") = "ScriptExample", "Assembly-CSharp.csproj", "{B68F2074-6912-7947-0D49-0E7C7D33EF09}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptExample", "Assembly-CSharp.csproj", "{B68F2074-6912-7947-0D49-0E7C7D33EF09}"
 EndProject
-Project("{1DAC3C8B-3A05-000E-2864-3FFE130CD3EE}") = "ScriptExample", "Assembly-UnityScript.unityproj", "{7C587B8C-E8E9-E2E0-EF8C-6308E6D65047}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptExample", "Assembly-CSharp-Editor-firstpass.csproj", "{02D07DCA-C258-C2A1-CCA8-1F68D629CC79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{B68F2074-6912-7947-0D49-0E7C7D33EF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B68F2074-6912-7947-0D49-0E7C7D33EF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B68F2074-6912-7947-0D49-0E7C7D33EF09}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C587B8C-E8E9-E2E0-EF8C-6308E6D65047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C587B8C-E8E9-E2E0-EF8C-6308E6D65047}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C587B8C-E8E9-E2E0-EF8C-6308E6D65047}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C587B8C-E8E9-E2E0-EF8C-6308E6D65047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D07DCA-C258-C2A1-CCA8-1F68D629CC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D07DCA-C258-C2A1-CCA8-1F68D629CC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D07DCA-C258-C2A1-CCA8-1F68D629CC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D07DCA-C258-C2A1-CCA8-1F68D629CC79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,5 +41,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal

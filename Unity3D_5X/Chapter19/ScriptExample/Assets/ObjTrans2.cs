@@ -14,6 +14,5 @@ public class ObjTrans2 : MonoBehaviour {
 		var speed=30.0f;
 		//Time.deltaTime表示距上一次调用所用的时间。
 		transform.Rotate(Vector3.up * Time.deltaTime*speed); 
-
 	}
 }
