@@ -15,7 +15,7 @@
       <file leaf-file-name="IPointerClickHandler.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/e8/cc8dae09/IPointerClickHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="152">
               <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
@@ -25,7 +25,7 @@
       <file leaf-file-name="Toggle.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/06/92653803/Toggle.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="3458">
               <caret line="182" column="20" lean-forward="false" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="20" />
               <folding />
             </state>
@@ -35,7 +35,7 @@
       <file leaf-file-name="Scrollbar.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/c6/6f82b8f6/Scrollbar.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="9880">
               <caret line="520" column="38" lean-forward="false" selection-start-line="520" selection-start-column="38" selection-end-line="520" selection-end-column="38" />
               <folding />
             </state>
@@ -45,7 +45,7 @@
       <file leaf-file-name="UnityEvent`1.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/47/44fd0eaa/UnityEvent`1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="323">
               <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
@@ -75,19 +75,35 @@
       <file leaf-file-name="HorizontalOrVerticalLayoutGroup.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/1a/bc0f0c94/HorizontalOrVerticalLayoutGroup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
+            <state relative-caret-position="3724">
               <caret line="196" column="29" lean-forward="false" selection-start-line="196" selection-start-column="29" selection-end-line="196" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LayoutGroup.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LayoutGroup.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/91/6712b881/LayoutGroup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="0">
               <caret line="352" column="26" lean-forward="false" selection-start-line="352" selection-start-column="26" selection-end-line="352" selection-end-column="26" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwirlEffect.shader" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1504345807000" expanded="true" signature="120:984" ph="{...}" />
+                <marker date="1504345807000" expanded="true" signature="133:178" ph="{...}" />
+                <marker date="1504345807000" expanded="true" signature="190:967" ph="{...}" />
+                <marker date="1504345807000" expanded="true" signature="198:965" ph="{...}" />
+                <marker date="1504345807000" expanded="true" signature="249:956" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +111,7 @@
       <file leaf-file-name="RectTransform.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/7d/cf6c4940/RectTransform.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="5453">
               <caret line="287" column="16" lean-forward="false" selection-start-line="287" selection-start-column="16" selection-end-line="287" selection-end-column="16" />
               <folding />
             </state>
@@ -105,7 +121,7 @@
       <file leaf-file-name="PersistentCall.cs" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/c9/c70c73d0/PersistentCall.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="247">
               <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
               <folding />
             </state>
@@ -123,20 +139,21 @@
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/c6/6f82b8f6/Scrollbar.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/91/6712b881/LayoutGroup.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/06/92653803/Toggle.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/e8/cc8dae09/IPointerClickHandler.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/1a/bc0f0c94/HorizontalOrVerticalLayoutGroup.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/66/ee087311/HorizontalLayoutGroup.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/c6/6f82b8f6/Scrollbar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/91/6712b881/LayoutGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/06/92653803/Toggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/e8/cc8dae09/IPointerClickHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/1a/bc0f0c94/HorizontalOrVerticalLayoutGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/66/ee087311/HorizontalLayoutGroup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/5f/40961fa7/UnityEvent.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/c9/c70c73d0/PersistentCall.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79A471AA-E320-456D-86C4-1CABD84F7231/5e/146393df/HorizontalLayout.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/c9/c70c73d0/PersistentCall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79A471AA-E320-456D-86C4-1CABD84F7231/5e/146393df/HorizontalLayout.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/d1/ea28a450/PersistentCallGroup.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/3c/e29ac3cd/Button.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/7d/cf6c4940/RectTransform.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/7d/cf6c4940/RectTransform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/d3/6659e642/UnityEventBase.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/47/44fd0eaa/UnityEvent`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/47/44fd0eaa/UnityEvent`1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -297,11 +314,12 @@
       <updated>1504190775300</updated>
       <workItem from="1504190776604" duration="2280000" />
       <workItem from="1504346996962" duration="324000" />
+      <workItem from="1504416954376" duration="547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2604000" />
+    <option name="totallyTimeSpent" value="3151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,7 +332,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -324,7 +341,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -373,7 +390,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Test.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/e8/cc8dae09/IPointerClickHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -381,14 +398,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyButton.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/06/92653803/Toggle.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        <state relative-caret-position="3458">
+          <caret line="182" column="20" lean-forward="false" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/c6/6f82b8f6/Scrollbar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9880">
+          <caret line="520" column="38" lean-forward="false" selection-start-line="520" selection-start-column="38" selection-end-line="520" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/47/44fd0eaa/UnityEvent`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79A471AA-E320-456D-86C4-1CABD84F7231/5e/146393df/HorizontalLayout.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/66/ee087311/HorizontalLayoutGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/1a/bc0f0c94/HorizontalOrVerticalLayoutGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3724">
+          <caret line="196" column="29" lean-forward="false" selection-start-line="196" selection-start-column="29" selection-end-line="196" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/91/6712b881/LayoutGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6688">
+          <caret line="352" column="26" lean-forward="false" selection-start-line="352" selection-start-column="26" selection-end-line="352" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/7d/cf6c4940/RectTransform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5453">
+          <caret line="287" column="16" lean-forward="false" selection-start-line="287" selection-start-column="16" selection-end-line="287" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/c9/c70c73d0/PersistentCall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Test.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MyButton.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/e8/cc8dae09/IPointerClickHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -425,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -449,75 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-          <folding>
-            <marker date="1504191575000" expanded="true" signature="0:305" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1504191575000" expanded="false" signature="313:407" ph="..." />
-            <marker date="1504191575000" expanded="true" signature="437:14987" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="442:530" ph="///   &lt;para&gt;Abstract base class for UnityEvents.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="640:14985" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="929:1107" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="1168:1180" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="1242:1351" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="1584:1971" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2092:3364" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2118:3358" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2502:2571" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2711:2749" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2891:2931" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3074:3115" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3256:3295" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3370:3476" ph="///   &lt;para&gt;Get the number of registered persistent listeners.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="3517:3572" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3578:3758" ph="///   &lt;para&gt;Get the target component of the listener at index index.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="3819:3983" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3989:4171" ph="///   &lt;para&gt;Get the target method name of the listener at index index.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="4224:4379" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="4420:4502" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="4553:4705" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="4711:4937" ph="///   &lt;para&gt;Modify the execution state of a persistent listener.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="5018:5204" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5273:5354" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5405:5455" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5527:5593" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5599:5731" ph="///   &lt;para&gt;Remove all non-persisent (ie created from script) listeners  from the event.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="5768:5808" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5856:5952" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5991:6065" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="6071:6434" ph="///   &lt;para&gt;Given an object, function name, and a list of argument types; find the method that matches.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="6544:7374" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="6658:7336" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="6880:7328" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="7068:7271" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="7481:7587" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="7720:8807" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="8850:8906" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9001:9273" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9363:9610" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9665:9764" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9823:9936" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9999:10183" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10262:10694" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10292:10388" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10399:10688" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10775:10968" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11065:11505" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11095:11191" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11202:11499" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11592:11787" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11890:12334" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11920:12016" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12027:12328" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12418:12612" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12712:13154" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12742:12838" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12849:13148" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13244:13440" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13546:13992" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13576:13672" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13683:13986" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="14104:14303" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="14431:14981" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,91 +544,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Test.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Test.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/d3/6659e642/UnityEventBase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-          <folding>
-            <marker date="1504191575000" expanded="true" signature="0:305" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1504191575000" expanded="false" signature="313:407" ph="..." />
-            <marker date="1504191575000" expanded="true" signature="437:14987" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="442:530" ph="///   &lt;para&gt;Abstract base class for UnityEvents.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="640:14985" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="929:1107" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="1168:1180" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="1242:1351" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="1584:1971" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2092:3364" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2118:3358" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2502:2571" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2711:2749" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="2891:2931" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3074:3115" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3256:3295" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3370:3476" ph="///   &lt;para&gt;Get the number of registered persistent listeners.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="3517:3572" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3578:3758" ph="///   &lt;para&gt;Get the target component of the listener at index index.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="3819:3983" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="3989:4171" ph="///   &lt;para&gt;Get the target method name of the listener at index index.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="4224:4379" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="4420:4502" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="4553:4705" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="4711:4937" ph="///   &lt;para&gt;Modify the execution state of a persistent listener.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="5018:5204" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5273:5354" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5405:5455" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5527:5593" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5599:5731" ph="///   &lt;para&gt;Remove all non-persisent (ie created from script) listeners  from the event.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="5768:5808" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5856:5952" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="5991:6065" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="6071:6434" ph="///   &lt;para&gt;Given an object, function name, and a list of argument types; find the method that matches.&lt;/para&gt; ... " />
-            <marker date="1504191575000" expanded="true" signature="6544:7374" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="6658:7336" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="6880:7328" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="7068:7271" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="7481:7587" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="7720:8807" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="8850:8906" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9001:9273" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9363:9610" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9665:9764" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9823:9936" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="9999:10183" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10262:10694" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10292:10388" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10399:10688" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="10775:10968" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11065:11505" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11095:11191" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11202:11499" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11592:11787" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11890:12334" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="11920:12016" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12027:12328" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12418:12612" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12712:13154" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12742:12838" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="12849:13148" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13244:13440" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13546:13992" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13576:13672" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="13683:13986" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="14104:14303" ph="{...}" />
-            <marker date="1504191575000" expanded="true" signature="14431:14981" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,29 +559,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/c9/c70c73d0/PersistentCall.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="247">
           <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyButton.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyButton.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/e8/cc8dae09/IPointerClickHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="152">
           <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
@@ -654,7 +581,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/06/92653803/Toggle.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="3458">
           <caret line="182" column="20" lean-forward="false" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="20" />
           <folding />
         </state>
@@ -662,7 +589,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/c6/6f82b8f6/Scrollbar.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="9880">
           <caret line="520" column="38" lean-forward="false" selection-start-line="520" selection-start-column="38" selection-end-line="520" selection-end-column="38" />
           <folding />
         </state>
@@ -670,7 +597,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/47/44fd0eaa/UnityEvent`1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="323">
           <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
@@ -694,7 +621,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/1a/bc0f0c94/HorizontalOrVerticalLayoutGroup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
+        <state relative-caret-position="3724">
           <caret line="196" column="29" lean-forward="false" selection-start-line="196" selection-start-column="29" selection-end-line="196" selection-end-column="29" />
           <folding />
         </state>
@@ -702,7 +629,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B63E63A-4A80-480D-BD2F-AACF76D58D93/7d/cf6c4940/RectTransform.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="5453">
           <caret line="287" column="16" lean-forward="false" selection-start-line="287" selection-start-column="16" selection-end-line="287" selection-end-column="16" />
           <folding />
         </state>
@@ -710,7 +637,7 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3D03935D-4C70-4E01-A7B6-19C0F9853214/91/6712b881/LayoutGroup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="0">
           <caret line="352" column="26" lean-forward="false" selection-start-line="352" selection-start-column="26" selection-end-line="352" selection-end-column="26" />
           <folding />
         </state>
