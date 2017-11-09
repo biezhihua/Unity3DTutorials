@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test.assetbundle
+      Dependencies:
+        Dependency_0: m1.ab
+    Info_1:
+      Name: cube
+      Dependencies: {}
+    Info_2:
+      Name: m1.ab
+      Dependencies: {}

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test
+      Dependencies:
+        Dependency_0: m1
+    Info_1:
+      Name: m1
+      Dependencies: {}
+    Info_2:
+      Name: scene.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: cube
+      Dependencies: {}
+    Info_4:
+      Name: variants/variant-scene.sd
+      Dependencies: {}
