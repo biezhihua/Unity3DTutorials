@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 22
+  controlID: 46
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -179,8 +179,8 @@ MonoBehaviour:
     y: 377
     width: 662
     height: 379
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -443,13 +443,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.012478321, y: 0.58105177, z: -0.008872706, w: -0.8137394}
+    m_Target: {x: -0.37813088, y: 0.5352565, z: -0.2901653, w: -0.6973924}
     speed: 2
-    m_Value: {x: -0.0124781495, y: 0.5810438, z: -0.008872584, w: -0.8137283}
+    m_Value: {x: -0.37812436, y: 0.53524727, z: -0.2901603, w: -0.69738036}
   m_Size:
-    m_Target: 2.387589
+    m_Target: 2.087589
     speed: 2
-    m_Value: 2.387589
+    m_Value: 2.087589
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -488,9 +488,9 @@ MonoBehaviour:
     height: 200
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 1afcffff00000000
+    m_SelectedIDs: 0cf6ffff
+    m_LastClickedID: -2548
+    m_ExpandedIDs: 22f6ffff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -509,7 +509,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
   m_ExpandedScenes:
-  - Scene_6_4
+  - Scene_6_5
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -587,7 +587,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 363a0000
     m_LastClickedID: 14902
-    m_ExpandedIDs: 0000000000260000062600000c260000
+    m_ExpandedIDs: 00000000042600000a26000012260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -615,7 +615,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000000260000062600000c260000
+    m_ExpandedIDs: 00000000042600009226000098260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
