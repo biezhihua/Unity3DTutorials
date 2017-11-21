@@ -11,18 +11,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Chapter6-BlinnPhongUseBuildInFunction.shader" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Shader_6_5/Chapter6-BlinnPhongUseBuildInFunction.shader">
+      <file leaf-file-name="Chapter7-SingleTexture.shader" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="77" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="61" column="55" lean-forward="true" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
               <folding>
-                <marker date="1511191015004" expanded="true" signature="0:220" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-                <marker date="1511191015004" expanded="true" signature="274:2284" ph="{...}" />
-                <marker date="1511191015004" expanded="true" signature="288:456" ph="{...}" />
-                <marker date="1511191015004" expanded="true" signature="468:2261" ph="{...}" />
-                <marker date="1511191015004" expanded="true" signature="477:2258" ph="{...}" />
-                <marker date="1511191015004" expanded="true" signature="543:2249" ph="{...}" />
+                <marker date="1511279740780" expanded="true" signature="53:1946" ph="{...}" />
+                <marker date="1511279740780" expanded="true" signature="67:246" ph="{...}" />
+                <marker date="1511279740780" expanded="true" signature="258:1922" ph="{...}" />
+                <marker date="1511279740780" expanded="true" signature="269:1919" ph="{...}" />
+                <marker date="1511279740780" expanded="true" signature="325:1910" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,16 +32,19 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>reflectDir</find>
+      <find>_MainTex</find>
+      <find>albedo</find>
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Shader_6_5/Chapter6-BlinnPhongUseBuildInFunction.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader_6_5/Chapter6-SpecularPixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Shader_6_5/Chapter6-BlinnPhongUseBuildInFunction.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shader_7_1/SingleTexture.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader" />
       </list>
     </option>
   </component>
@@ -119,12 +121,12 @@
       <updated>1511189294004</updated>
       <workItem from="1511189295308" duration="1000" />
       <workItem from="1511189837280" duration="16000" />
-      <workItem from="1511189865884" duration="848000" />
+      <workItem from="1511189865884" duration="4622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="865000" />
+    <option name="totallyTimeSpent" value="4639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -198,14 +200,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1511189865212" expanded="true" signature="0:290" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511189865212" expanded="true" signature="336:2380" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="350:518" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="530:2357" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="539:2354" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="605:2345" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -213,14 +208,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1511191015004" expanded="true" signature="0:220" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511191015004" expanded="true" signature="274:2284" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="288:456" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="468:2261" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="477:2258" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="543:2249" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -228,14 +216,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1511189865212" expanded="true" signature="0:290" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511189865212" expanded="true" signature="336:2380" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="350:518" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="530:2357" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="539:2354" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="605:2345" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -243,14 +224,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1511189865212" expanded="true" signature="0:290" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511189865212" expanded="true" signature="336:2380" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="350:518" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="530:2357" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="539:2354" ph="{...}" />
-            <marker date="1511189865212" expanded="true" signature="605:2345" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -265,14 +239,37 @@
     <entry file="file://$PROJECT_DIR$/Assets/Shader_6_5/Chapter6-BlinnPhongUseBuildInFunction.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <caret line="77" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader_6_5/Chapter6-BlinnPhong.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader_7_1/SingleTexture.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="61" column="55" lean-forward="true" selection-start-line="61" selection-start-column="55" selection-end-line="61" selection-end-column="55" />
           <folding>
-            <marker date="1511191015004" expanded="true" signature="0:220" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511191015004" expanded="true" signature="274:2284" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="288:456" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="468:2261" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="477:2258" ph="{...}" />
-            <marker date="1511191015004" expanded="true" signature="543:2249" ph="{...}" />
+            <marker date="1511279740780" expanded="true" signature="53:1946" ph="{...}" />
+            <marker date="1511279740780" expanded="true" signature="67:246" ph="{...}" />
+            <marker date="1511279740780" expanded="true" signature="258:1922" ph="{...}" />
+            <marker date="1511279740780" expanded="true" signature="269:1919" ph="{...}" />
+            <marker date="1511279740780" expanded="true" signature="325:1910" ph="{...}" />
           </folding>
         </state>
       </provider>
