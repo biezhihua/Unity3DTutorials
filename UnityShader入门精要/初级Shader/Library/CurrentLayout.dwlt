@@ -111,7 +111,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 49
+  controlID: 173
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 50
+  controlID: 26
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,8 +253,8 @@ MonoBehaviour:
     y: 221
     width: 267
     height: 535
-  m_MinSize: {x: 104, y: 121}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.25738865, y: 0.27417552, z: -0.07637785, w: -0.92346275}
     speed: 2
-    m_Value: {x: -0.25738373, y: 0.2741703, z: -0.076376386, w: -0.9234451}
+    m_Value: {x: -0.25738865, y: 0.27417552, z: -0.07637785, w: -0.92346275}
   m_Size:
     m_Target: 3.8875887
     speed: 2
@@ -489,9 +489,9 @@ MonoBehaviour:
     height: 200
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: da270000
     m_LastClickedID: 0
-    m_ExpandedIDs: 089effff00000000
+    m_ExpandedIDs: 8efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -578,7 +578,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Shader/Chapter_7_1
+    - Assets/Material/Chapter_7_1
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -589,7 +589,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 363a0000
     m_LastClickedID: 14902
-    m_ExpandedIDs: 00000000542800006c2800007c280000
+    m_ExpandedIDs: 000000002627000094270000b6270000d8270000322800005828000086280000cc280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -617,21 +617,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000542800007c2800007229000078290000842b00009e2b0000fa2d0000202e0000
+    m_ExpandedIDs: 000000002627000094270000b6270000d8270000322800005828000086280000cc280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Chapter7-SingleTexture
-      m_OriginalName: Chapter7-SingleTexture
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10676
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 12}
     m_SearchString: 
