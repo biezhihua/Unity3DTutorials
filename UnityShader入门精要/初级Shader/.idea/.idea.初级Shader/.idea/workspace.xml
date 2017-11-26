@@ -11,18 +11,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Chapter7-SingleTexture.shader" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader">
+      <file leaf-file-name="Chapter7-NormalMapTangentSpace.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapTangentSpace.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="93" column="55" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state relative-caret-position="461">
+              <caret line="108" column="102" lean-forward="false" selection-start-line="108" selection-start-column="87" selection-end-line="108" selection-end-column="102" />
               <folding>
-                <marker date="1511450314816" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-                <marker date="1511450314816" expanded="true" signature="206:3535" ph="{...}" />
-                <marker date="1511450314816" expanded="true" signature="220:424" ph="{...}" />
-                <marker date="1511450314816" expanded="true" signature="436:3512" ph="{...}" />
-                <marker date="1511450314816" expanded="true" signature="445:3509" ph="{...}" />
-                <marker date="1511450314816" expanded="true" signature="510:3500" ph="{...}" />
+                <marker date="1511631287714" expanded="true" signature="147:4661" ph="{...}" />
+                <marker date="1511631287714" expanded="true" signature="165:575" ph="{...}" />
+                <marker date="1511631287714" expanded="true" signature="275:311" ph="/* 法线纹理 ... */" />
+                <marker date="1511631287714" expanded="true" signature="367:416" ph="/* 用于控制凹凸程度，当它为0时，意味着该法线纹理不会对 ... */" />
+                <marker date="1511631287714" expanded="true" signature="595:4635" ph="{...}" />
+                <marker date="1511631287714" expanded="true" signature="610:4629" ph="{...}" />
+                <marker date="1511631287714" expanded="true" signature="691:4614" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chapter7-NormalMapWorldSpace.shader" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapWorldSpace.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="106" column="11" lean-forward="true" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
+              <folding>
+                <marker date="1511634220725" expanded="true" signature="131:4881" ph="{...}" />
+                <marker date="1511634220725" expanded="true" signature="148:558" ph="{...}" />
+                <marker date="1511634220725" expanded="true" signature="258:294" ph="/* 法线纹理 ... */" />
+                <marker date="1511634220725" expanded="true" signature="350:399" ph="/* 用于控制凹凸程度，当它为0时，意味着该法线纹理不会对 ... */" />
+                <marker date="1511634220725" expanded="true" signature="578:4855" ph="{...}" />
+                <marker date="1511634220725" expanded="true" signature="593:4849" ph="{...}" />
+                <marker date="1511634220725" expanded="true" signature="674:4834" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,10 +57,17 @@
       <find>_MainTex_ST</find>
       <find>_Specular</find>
       <find>ambient</find>
+      <find>lightDir</find>
+      <find>frag</find>
+      <find>tangentNormal</find>
+      <find>tangentLightDir</find>
+      <find>worldPos</find>
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -49,6 +75,8 @@
         <option value="$PROJECT_DIR$/Assets/Shader_6_5/Chapter6-BlinnPhongUseBuildInFunction.shader" />
         <option value="$PROJECT_DIR$/Assets/Shader_7_1/SingleTexture.shader" />
         <option value="$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapTangentSpace.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapWorldSpace.shader" />
       </list>
     </option>
   </component>
@@ -58,7 +86,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="47" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="827" />
@@ -78,11 +107,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,6 +147,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4c01257c-cbe6-421e-abf4-1d263af32fdd" name="Default" comment="" />
@@ -129,12 +161,14 @@
       <workItem from="1511189837280" duration="16000" />
       <workItem from="1511189865884" duration="4622000" />
       <workItem from="1511449226322" duration="406000" />
-      <workItem from="1511449801955" duration="507000" />
+      <workItem from="1511449801955" duration="826000" />
+      <workItem from="1511593526964" duration="4293000" />
+      <workItem from="1511630965692" duration="3154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5552000" />
+    <option name="totallyTimeSpent" value="13318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,22 +180,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="827" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25716332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -179,8 +213,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25716332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -189,8 +223,8 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,17 +238,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader">
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapTangentSpace.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1511450314816" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511450314816" expanded="true" signature="206:3535" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="220:424" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="436:3512" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="445:3509" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="510:3500" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="147:4661" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="165:575" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="275:311" ph="/* 法线纹理 ... */" />
+            <marker date="1511631287714" expanded="true" signature="367:416" ph="/* 用于控制凹凸程度，当它为0时，意味着该法线纹理不会对 ... */" />
+            <marker date="1511631287714" expanded="true" signature="595:4635" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="610:4629" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="691:4614" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -223,14 +258,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1511450314816" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511450314816" expanded="true" signature="206:3535" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="220:424" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="436:3512" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="445:3509" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="510:3500" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -250,15 +291,39 @@
     <entry file="file://$PROJECT_DIR$/Assets/Shader_7_1/SingleTexture.shader" />
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="93" column="55" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapTangentSpace.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="108" column="102" lean-forward="false" selection-start-line="108" selection-start-column="87" selection-end-line="108" selection-end-column="102" />
           <folding>
-            <marker date="1511450314816" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1511450314816" expanded="true" signature="206:3535" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="220:424" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="436:3512" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="445:3509" ph="{...}" />
-            <marker date="1511450314816" expanded="true" signature="510:3500" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="147:4661" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="165:575" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="275:311" ph="/* 法线纹理 ... */" />
+            <marker date="1511631287714" expanded="true" signature="367:416" ph="/* 用于控制凹凸程度，当它为0时，意味着该法线纹理不会对 ... */" />
+            <marker date="1511631287714" expanded="true" signature="595:4635" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="610:4629" ph="{...}" />
+            <marker date="1511631287714" expanded="true" signature="691:4614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapWorldSpace.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="106" column="11" lean-forward="true" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
+          <folding>
+            <marker date="1511634220725" expanded="true" signature="131:4881" ph="{...}" />
+            <marker date="1511634220725" expanded="true" signature="148:558" ph="{...}" />
+            <marker date="1511634220725" expanded="true" signature="258:294" ph="/* 法线纹理 ... */" />
+            <marker date="1511634220725" expanded="true" signature="350:399" ph="/* 用于控制凹凸程度，当它为0时，意味着该法线纹理不会对 ... */" />
+            <marker date="1511634220725" expanded="true" signature="578:4855" ph="{...}" />
+            <marker date="1511634220725" expanded="true" signature="593:4849" ph="{...}" />
+            <marker date="1511634220725" expanded="true" signature="674:4834" ph="{...}" />
           </folding>
         </state>
       </provider>
