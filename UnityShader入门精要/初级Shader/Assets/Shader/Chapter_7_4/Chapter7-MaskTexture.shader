@@ -97,6 +97,8 @@ Shader "Unity Shaders Book/Chapter 7/Mask Texture" {
                 fixed3 halfDir = normalize(tangentLightDir + tangentViewDir);
                 
                 // Get the mask value
+                // 对遮罩纹理__SpecularMask进行采样，然后使用r分量作为掩码值和__SpecularScale相乘
+                // 用于控制高光反射的强度
                 fixed3 specularMask = tex2D(_SpecularMask, i.uv).r * _SpecularScale;
                 
                 // Compute specular term with the specular mask

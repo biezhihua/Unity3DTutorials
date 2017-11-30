@@ -63,7 +63,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _Gloss: 20
+    - _Gloss: 8
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -73,7 +73,7 @@ Material:
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularScale: 0.92
+    - _SpecularScale: 1.63
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
