@@ -47,15 +47,16 @@
       <file leaf-file-name="Chapter8-AlphaTest.shader" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+            <state relative-caret-position="303">
+              <caret line="72" column="63" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding>
-                <marker date="1512056036275" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-                <marker date="1512056036275" expanded="true" signature="202:1918" ph="{...}" />
-                <marker date="1512056036275" expanded="true" signature="216:353" ph="{...}" />
-                <marker date="1512056036275" expanded="true" signature="365:1874" ph="{...}" />
-                <marker date="1512056036275" expanded="true" signature="464:1871" ph="{...}" />
-                <marker date="1512056036275" expanded="true" signature="520:1862" ph="{...}" />
+                <marker date="1512056107512" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
+                <marker date="1512056107512" expanded="true" signature="203:2787" ph="{...}" />
+                <marker date="1512056107512" expanded="true" signature="217:380" ph="{...}" />
+                <marker date="1512056107512" expanded="true" signature="392:2744" ph="{...}" />
+                <marker date="1512056107512" expanded="true" signature="401:569" ph="/* Queue用于指定渲染队列 ... */" />
+                <marker date="1512056107512" expanded="true" signature="681:2730" ph="{...}" />
+                <marker date="1512056107512" expanded="true" signature="804:2715" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -186,12 +187,12 @@
       <workItem from="1511449801955" duration="826000" />
       <workItem from="1511593526964" duration="4293000" />
       <workItem from="1511630965692" duration="10190000" />
-      <workItem from="1512054459748" duration="1527000" />
+      <workItem from="1512054459748" duration="1945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21881000" />
+    <option name="totallyTimeSpent" value="22299000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,15 +385,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="303">
+          <caret line="72" column="63" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding>
-            <marker date="1512056036275" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1512056036275" expanded="true" signature="202:1918" ph="{...}" />
-            <marker date="1512056036275" expanded="true" signature="216:353" ph="{...}" />
-            <marker date="1512056036275" expanded="true" signature="365:1874" ph="{...}" />
-            <marker date="1512056036275" expanded="true" signature="464:1871" ph="{...}" />
-            <marker date="1512056036275" expanded="true" signature="520:1862" ph="{...}" />
+            <marker date="1512056107512" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
+            <marker date="1512056107512" expanded="true" signature="203:2787" ph="{...}" />
+            <marker date="1512056107512" expanded="true" signature="217:380" ph="{...}" />
+            <marker date="1512056107512" expanded="true" signature="392:2744" ph="{...}" />
+            <marker date="1512056107512" expanded="true" signature="401:569" ph="/* Queue用于指定渲染队列 ... */" />
+            <marker date="1512056107512" expanded="true" signature="681:2730" ph="{...}" />
+            <marker date="1512056107512" expanded="true" signature="804:2715" ph="{...}" />
           </folding>
         </state>
       </provider>
