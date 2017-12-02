@@ -11,56 +11,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Chapter8-AlphaBlend.shader" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader">
+      <file leaf-file-name="Chapter8-BlendOperations.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="255">
+              <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding>
-                <marker date="1512129191423" expanded="true" signature="50:2570" ph="{...}" />
-                <marker date="1512129191423" expanded="true" signature="64:223" ph="{...}" />
-                <marker date="1512129191423" expanded="true" signature="235:2534" ph="{...}" />
-                <marker date="1512129191423" expanded="true" signature="242:509" ph="/* RenderType标签可以让Unity ... */" />
-                <marker date="1512129191423" expanded="true" signature="613:2528" ph="{...}" />
-                <marker date="1512129191423" expanded="true" signature="804:2519" ph="{...}" />
+                <marker date="1512221686938" expanded="true" signature="57:1348" ph="{...}" />
+                <marker date="1512221686938" expanded="true" signature="71:205" ph="{...}" />
+                <marker date="1512221686938" expanded="true" signature="217:1312" ph="{...}" />
+                <marker date="1512221686938" expanded="true" signature="319:1306" ph="{...}" />
+                <marker date="1512221686938" expanded="true" signature="461:1297" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter8-AlphaBlendZWrite.shader" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader">
+      <file leaf-file-name="Chapter8-BlendOperations 1.shader" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations 1.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="334">
+              <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
               <folding>
-                <marker date="1512130192330" expanded="true" signature="57:2803" ph="{...}" />
-                <marker date="1512130192330" expanded="true" signature="71:230" ph="{...}" />
-                <marker date="1512130192330" expanded="true" signature="242:2767" ph="{...}" />
-                <marker date="1512130192330" expanded="true" signature="249:516" ph="/* RenderType标签可以让Unity ... */" />
-                <marker date="1512130192330" expanded="true" signature="615:657" ph="/* 仅仅是把模型的深度信息写入深度缓冲中 ... */" />
-                <marker date="1512130192330" expanded="true" signature="665:835" ph="{...}" />
-                <marker date="1512130192330" expanded="true" signature="705:813" ph="/* 用于设置颜色通道的写掩码(Wirte Mask) ... */" />
-                <marker date="1512130192330" expanded="true" signature="846:2761" ph="{...}" />
-                <marker date="1512130192330" expanded="true" signature="1037:2752" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter8-AlphaTest.shader" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="84" column="42" lean-forward="false" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="42" />
-              <folding>
-                <marker date="1512128300156" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-                <marker date="1512128300156" expanded="true" signature="203:2787" ph="{...}" />
-                <marker date="1512128300156" expanded="true" signature="217:380" ph="{...}" />
-                <marker date="1512128300156" expanded="true" signature="392:2744" ph="{...}" />
-                <marker date="1512128300156" expanded="true" signature="401:569" ph="/* Queue用于指定渲染队列 ... */" />
-                <marker date="1512128300156" expanded="true" signature="681:2730" ph="{...}" />
-                <marker date="1512128300156" expanded="true" signature="804:2715" ph="{...}" />
+                <marker date="1512221719338" expanded="true" signature="141:1820" ph="{...}" />
+                <marker date="1512221719338" expanded="true" signature="155:293" ph="{...}" />
+                <marker date="1512221719338" expanded="true" signature="305:1783" ph="{...}" />
+                <marker date="1512221719338" expanded="true" signature="400:1780" ph="{...}" />
+                <marker date="1512221719338" expanded="true" signature="463:1024" ph="/* Normal ... */" />
+                <marker date="1512221719338" expanded="true" signature="1058:1771" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -87,14 +65,8 @@
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_4/Chapter7-MaskTexture.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_3/Chapter7-RampTexture.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations 1.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,6 +81,8 @@
         <option value="$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader" />
         <option value="$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader" />
         <option value="$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations 1.shader" />
       </list>
     </option>
   </component>
@@ -118,7 +92,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="680" />
     <option name="y" value="29" />
     <option name="width" value="1440" />
@@ -199,11 +173,12 @@
       <workItem from="1512054459748" duration="1945000" />
       <workItem from="1512128272982" duration="26000" />
       <workItem from="1512128300616" duration="2564000" />
+      <workItem from="1512221660183" duration="64000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24889000" />
+    <option name="totallyTimeSpent" value="24953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -215,22 +190,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="680" y="29" width="1440" height="827" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="826" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25716332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25716332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -277,14 +252,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1512129191423" expanded="true" signature="50:2570" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="64:223" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="235:2534" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="242:509" ph="/* RenderType标签可以让Unity ... */" />
-            <marker date="1512129191423" expanded="true" signature="613:2528" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="804:2519" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="84" column="42" lean-forward="false" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -292,15 +284,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="47" />
-          <folding>
-            <marker date="1512128300156" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1512128300156" expanded="true" signature="203:2787" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="217:380" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="392:2744" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="401:569" ph="/* Queue用于指定渲染队列 ... */" />
-            <marker date="1512128300156" expanded="true" signature="681:2730" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="804:2715" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -308,14 +292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1178">
           <caret line="62" column="62" lean-forward="false" selection-start-line="62" selection-start-column="62" selection-end-line="62" selection-end-column="62" />
-          <folding>
-            <marker date="1512128275132" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1512128275132" expanded="true" signature="204:2497" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="218:387" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="399:2475" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="408:2472" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="473:2463" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -323,13 +299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding>
-            <marker date="1512128275144" expanded="true" signature="135:3778" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="149:588" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="600:3755" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="609:3752" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="690:3741" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -337,15 +306,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
           <caret line="72" column="63" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding>
-            <marker date="1512128300156" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1512128300156" expanded="true" signature="203:2787" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="217:380" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="392:2744" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="401:569" ph="/* Queue用于指定渲染队列 ... */" />
-            <marker date="1512128300156" expanded="true" signature="681:2730" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="804:2715" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -353,14 +314,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1178">
           <caret line="62" column="62" lean-forward="false" selection-start-line="62" selection-start-column="62" selection-end-line="62" selection-end-column="62" />
-          <folding>
-            <marker date="1512128275132" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1512128275132" expanded="true" signature="204:2497" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="218:387" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="399:2475" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="408:2472" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="473:2463" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,13 +321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1900">
           <caret line="100" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding>
-            <marker date="1512128275144" expanded="true" signature="135:3778" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="149:588" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="600:3755" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="609:3752" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="690:3741" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -445,14 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1178">
           <caret line="62" column="62" lean-forward="false" selection-start-line="62" selection-start-column="62" selection-end-line="62" selection-end-column="62" />
-          <folding>
-            <marker date="1512128275132" expanded="true" signature="0:151" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1512128275132" expanded="true" signature="204:2497" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="218:387" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="399:2475" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="408:2472" ph="{...}" />
-            <marker date="1512128275132" expanded="true" signature="473:2463" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,61 +398,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding>
-            <marker date="1512128275144" expanded="true" signature="135:3778" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="149:588" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="600:3755" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="609:3752" ph="{...}" />
-            <marker date="1512128275144" expanded="true" signature="690:3741" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
+        <state relative-caret-position="1596">
           <caret line="84" column="42" lean-forward="false" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="42" />
-          <folding>
-            <marker date="1512128300156" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
-            <marker date="1512128300156" expanded="true" signature="203:2787" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="217:380" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="392:2744" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="401:569" ph="/* Queue用于指定渲染队列 ... */" />
-            <marker date="1512128300156" expanded="true" signature="681:2730" ph="{...}" />
-            <marker date="1512128300156" expanded="true" signature="804:2715" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
+        <state relative-caret-position="399">
           <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <marker date="1512130192330" expanded="true" signature="57:2803" ph="{...}" />
-            <marker date="1512130192330" expanded="true" signature="71:230" ph="{...}" />
-            <marker date="1512130192330" expanded="true" signature="242:2767" ph="{...}" />
-            <marker date="1512130192330" expanded="true" signature="249:516" ph="/* RenderType标签可以让Unity ... */" />
-            <marker date="1512130192330" expanded="true" signature="615:657" ph="/* 仅仅是把模型的深度信息写入深度缓冲中 ... */" />
-            <marker date="1512130192330" expanded="true" signature="665:835" ph="{...}" />
-            <marker date="1512130192330" expanded="true" signature="705:813" ph="/* 用于设置颜色通道的写掩码(Wirte Mask) ... */" />
-            <marker date="1512130192330" expanded="true" signature="846:2761" ph="{...}" />
-            <marker date="1512130192330" expanded="true" signature="1037:2752" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="0">
           <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding>
-            <marker date="1512129191423" expanded="true" signature="50:2570" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="64:223" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="235:2534" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="242:509" ph="/* RenderType标签可以让Unity ... */" />
-            <marker date="1512129191423" expanded="true" signature="613:2528" ph="{...}" />
-            <marker date="1512129191423" expanded="true" signature="804:2519" ph="{...}" />
+            <marker date="1512221686938" expanded="true" signature="57:1348" ph="{...}" />
+            <marker date="1512221686938" expanded="true" signature="71:205" ph="{...}" />
+            <marker date="1512221686938" expanded="true" signature="217:1312" ph="{...}" />
+            <marker date="1512221686938" expanded="true" signature="319:1306" ph="{...}" />
+            <marker date="1512221686938" expanded="true" signature="461:1297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations 1.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <marker date="1512221719338" expanded="true" signature="141:1820" ph="{...}" />
+            <marker date="1512221719338" expanded="true" signature="155:293" ph="{...}" />
+            <marker date="1512221719338" expanded="true" signature="305:1783" ph="{...}" />
+            <marker date="1512221719338" expanded="true" signature="400:1780" ph="{...}" />
+            <marker date="1512221719338" expanded="true" signature="463:1024" ph="/* Normal ... */" />
+            <marker date="1512221719338" expanded="true" signature="1058:1771" ph="{...}" />
           </folding>
         </state>
       </provider>
