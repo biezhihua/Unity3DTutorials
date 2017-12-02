@@ -14,8 +14,8 @@
       <file leaf-file-name="Chapter8-AlphaBlend.shader" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="91" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="138">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding>
                 <marker date="1512129191423" expanded="true" signature="50:2570" ph="{...}" />
                 <marker date="1512129191423" expanded="true" signature="64:223" ph="{...}" />
@@ -23,6 +23,26 @@
                 <marker date="1512129191423" expanded="true" signature="242:509" ph="/* RenderType标签可以让Unity ... */" />
                 <marker date="1512129191423" expanded="true" signature="613:2528" ph="{...}" />
                 <marker date="1512129191423" expanded="true" signature="804:2519" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chapter8-AlphaBlendZWrite.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <marker date="1512130192330" expanded="true" signature="57:2803" ph="{...}" />
+                <marker date="1512130192330" expanded="true" signature="71:230" ph="{...}" />
+                <marker date="1512130192330" expanded="true" signature="242:2767" ph="{...}" />
+                <marker date="1512130192330" expanded="true" signature="249:516" ph="/* RenderType标签可以让Unity ... */" />
+                <marker date="1512130192330" expanded="true" signature="615:657" ph="/* 仅仅是把模型的深度信息写入深度缓冲中 ... */" />
+                <marker date="1512130192330" expanded="true" signature="665:835" ph="{...}" />
+                <marker date="1512130192330" expanded="true" signature="705:813" ph="/* 用于设置颜色通道的写掩码(Wirte Mask) ... */" />
+                <marker date="1512130192330" expanded="true" signature="846:2761" ph="{...}" />
+                <marker date="1512130192330" expanded="true" signature="1037:2752" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -69,6 +89,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_1/Chapter7-SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_4/Chapter7-MaskTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter_7_2/Chapter7-NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
@@ -87,6 +108,7 @@
         <option value="$PROJECT_DIR$/Assets/Shader/Chapter_7_4/Chapter7-MaskTexture.shader" />
         <option value="$PROJECT_DIR$/Assets/Shader/Chapter_8_3/Chapter8-AlphaTest.shader" />
         <option value="$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader" />
       </list>
     </option>
   </component>
@@ -97,8 +119,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="480" />
-    <option name="y" value="30" />
+    <option name="x" value="680" />
+    <option name="y" value="29" />
     <option name="width" value="1440" />
     <option name="height" value="827" />
   </component>
@@ -176,12 +198,12 @@
       <workItem from="1511630965692" duration="10190000" />
       <workItem from="1512054459748" duration="1945000" />
       <workItem from="1512128272982" duration="26000" />
-      <workItem from="1512128300616" duration="972000" />
+      <workItem from="1512128300616" duration="2564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23297000" />
+    <option name="totallyTimeSpent" value="24889000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,7 +215,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="30" width="1440" height="827" extended-state="0" />
+    <frame x="680" y="29" width="1440" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -464,10 +486,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_5/Chapter8-AlphaBlendZWrite.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <marker date="1512130192330" expanded="true" signature="57:2803" ph="{...}" />
+            <marker date="1512130192330" expanded="true" signature="71:230" ph="{...}" />
+            <marker date="1512130192330" expanded="true" signature="242:2767" ph="{...}" />
+            <marker date="1512130192330" expanded="true" signature="249:516" ph="/* RenderType标签可以让Unity ... */" />
+            <marker date="1512130192330" expanded="true" signature="615:657" ph="/* 仅仅是把模型的深度信息写入深度缓冲中 ... */" />
+            <marker date="1512130192330" expanded="true" signature="665:835" ph="{...}" />
+            <marker date="1512130192330" expanded="true" signature="705:813" ph="/* 用于设置颜色通道的写掩码(Wirte Mask) ... */" />
+            <marker date="1512130192330" expanded="true" signature="846:2761" ph="{...}" />
+            <marker date="1512130192330" expanded="true" signature="1037:2752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter_8_4/Chapter8-AlphaBlend.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="91" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding>
             <marker date="1512129191423" expanded="true" signature="50:2570" ph="{...}" />
             <marker date="1512129191423" expanded="true" signature="64:223" ph="{...}" />
