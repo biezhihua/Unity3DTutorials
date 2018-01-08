@@ -2,7 +2,7 @@
 // Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Custom/Chapter6-SpecularVertexLevel" {
+Shader "Custom/Chapter 6/SpecularVertexLevel" {
 	Properties {
 		_Diffuse("Diffuse", Color) = (1,1,1,1)
 
@@ -66,6 +66,7 @@ Shader "Custom/Chapter6-SpecularVertexLevel" {
 
 				// Get the reflect direction in world space
 				// 世界空间下反射方向
+				// reflect函数的入射方向要求是由光源指向交汇点的
 				fixed3 reflectDir = normalize(reflect(-worldLightDir, worldNormal));
 
 				// Get the view direction in world space

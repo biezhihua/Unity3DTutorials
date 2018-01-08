@@ -36,7 +36,7 @@ Shader "Unity Shaders Book/Chapter 6/Diffuse Vertex-Level" {
 				float3 normal : NORMAL;
 			};
 
-			// 顶点周色漆的输出结构体
+			// 顶点着色器的输出结构体
 			struct v2f {
 				float4 pos : SV_POSITION;
 				fixed3 color : COLOR;
@@ -62,6 +62,7 @@ Shader "Unity Shaders Book/Chapter 6/Diffuse Vertex-Level" {
 				// 需要使用原变换矩阵的逆转置矩阵来变换法线就可以得到正确的世界空间结果
 				// 模型空间到世界空间的变换矩阵的逆矩阵 = _WorldToObject
 				// 调换mul函数中的位置得到和转置矩阵相同的乘法
+				// mul代表的矩阵乘法，且是右乘
 				fixed3 worldNormal = normalize(mul(v.normal, (float3x3)unity_WorldToObject));
 
 				// Get the light direction in world space
