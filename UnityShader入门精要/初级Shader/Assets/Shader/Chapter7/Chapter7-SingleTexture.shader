@@ -60,6 +60,7 @@ Shader "Unity Shaders Book/Chapter 7/Single Texture" {
                 
                 // 先使用缩放属性xy对顶点纹理坐标进行缩放
                 // 再使用zw对结果进行平移
+                // 缩放、旋转、平移顺序
                 o.uv = v.texcoord.xy * _MainTex_ST.xy + _MainTex_ST.zw;
                 // Or just call the built-in function
                 // #define TRANSFORM_TEX(tex,name) (tex.xy * name##_ST.xy + name##_ST.zw)

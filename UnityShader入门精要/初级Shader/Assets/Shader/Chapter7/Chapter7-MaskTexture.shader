@@ -13,6 +13,7 @@ Shader "Unity Shaders Book/Chapter 7/Mask Texture" {
 	    
 	    // 高光反射遮罩纹理
 	    _SpecularMask("Specular Mask", 2D) = "white" {}
+        // 用于控制遮罩影响度的系数
 	    _SpecularScale("Specular Scale", Float) = 1.0
 	    
 	    _Specular("Specular", Color) = (1,1,1,1)
