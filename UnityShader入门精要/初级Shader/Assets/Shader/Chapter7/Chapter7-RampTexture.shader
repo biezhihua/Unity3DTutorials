@@ -65,6 +65,8 @@ Shader "Unity Shaders Book/Chapter 7/Ramp Texture" {
 		        // Use the texture to sample the diffuse color
 		        fixed halfLambert = 0.5 * dot(worldNormal, worldLightDir) + 0.5;
 		        
+				// fixed2(halfLambert, halfLambert) 使用halfLambert来构建一个文理坐标，并
+				// 使用这个纹理坐标对渐变纹理_RampTex进行采样
 		        fixed3 diffuseColor = tex2D(_RampTex, fixed2(halfLambert, halfLambert)).rgb * _Color.rgb;
 		        
 		        fixed3 diffuse = _LightColor0.rgb * diffuseColor;
