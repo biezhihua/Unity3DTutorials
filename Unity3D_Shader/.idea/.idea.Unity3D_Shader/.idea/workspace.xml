@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter8-AlphaBlendBothSided.shader" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chapter8-AlphaBlendBothSided.shader" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaBlendBothSided.shader">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+              <caret line="18" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
               <folding>
                 <marker date="1516693226974" expanded="true" signature="61:4554" ph="{...}" />
                 <marker date="1516693226974" expanded="true" signature="75:234" ph="{...}" />
@@ -43,6 +43,67 @@
                 <marker date="1516693226974" expanded="true" signature="2574:4512" ph="{...}" />
                 <marker date="1516693226974" expanded="true" signature="2788:4503" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MKGlassFree.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/workspace/ARCat-Android/arcat/Assets/_MK/MKGlassFree/Shader/MKGlassFree.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="46" column="53" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="53" />
+              <folding>
+                <marker date="1516696305082" expanded="true" signature="23:12010" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="38:1037" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="1040:1239" ph="/* SM 3.0 ... */" />
+                <marker date="1516696305082" expanded="true" signature="1252:4464" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="1411:1647" ph="/* Grab Refraction ... */" />
+                <marker date="1516696305082" expanded="true" signature="1700:2156" ph="/* VERTEX LIT ... */" />
+                <marker date="1516696305082" expanded="true" signature="2166:2672" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="2322:2663" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="2676:2882" ph="/* FORWARD ADD ... */" />
+                <marker date="1516696305082" expanded="true" signature="2892:3411" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="3087:3402" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="3415:3860" ph="/* TODO deferred shading pass ... */" />
+                <marker date="1516696305082" expanded="true" signature="3865:4064" ph="/* META ... */" />
+                <marker date="1516696305082" expanded="true" signature="4074:4458" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="4176:4449" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="4468:4676" ph="/* SM 2.5 - Mobile ... */" />
+                <marker date="1516696305082" expanded="true" signature="4689:8049" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="4848:5084" ph="/* Grab Refraction ... */" />
+                <marker date="1516696305082" expanded="true" signature="5137:5593" ph="/* VERTEX LIT ... */" />
+                <marker date="1516696305082" expanded="true" signature="5603:6154" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="5759:6145" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="6158:6364" ph="/* FORWARD ADD ... */" />
+                <marker date="1516696305082" expanded="true" signature="6374:6932" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="6569:6923" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="6936:7649" ph="/* TODO deferred shading pass ... */" />
+                <marker date="1516696305082" expanded="true" signature="7659:8043" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="7761:8034" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="8052:8281" ph="/* SM 2.0 Very Old - Skip some features ... */" />
+                <marker date="1516696305082" expanded="true" signature="8294:11918" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="8453:8689" ph="/* Grab Refraction ... */" />
+                <marker date="1516696305082" expanded="true" signature="8903:9108" ph="/* VERTEX LIT ... */" />
+                <marker date="1516696305082" expanded="true" signature="9255:9462" ph="/* FORWARD BASE ... */" />
+                <marker date="1516696305082" expanded="true" signature="9472:10023" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="9628:10014" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="10027:10233" ph="/* FORWARD ADD ... */" />
+                <marker date="1516696305082" expanded="true" signature="10243:10801" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="10438:10792" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="10805:11518" ph="/* TODO deferred shading pass ... */" />
+                <marker date="1516696305082" expanded="true" signature="11528:11912" ph="{...}" />
+                <marker date="1516696305082" expanded="true" signature="11630:11903" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unity3D_Shader.sln" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unity3D_Shader.sln">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaTestBothSided.shader">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="741">
-              <caret line="39" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <caret line="39" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding>
                 <marker date="1516692444121" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
                 <marker date="1516692444121" expanded="true" signature="214:3044" ph="{...}" />
@@ -92,6 +153,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-BlendOperations 1.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/workspace/ARCat-Android/arcat/Assets/_MK/MKGlassFree/Shader/MKGlassFree.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaBlendZWrite.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -114,6 +176,28 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -155,12 +239,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516689381198</updated>
-      <workItem from="1516689382433" duration="4168000" />
+      <workItem from="1516689382433" duration="4697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4168000" />
+    <option name="totallyTimeSpent" value="4697000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,7 +267,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -298,7 +382,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaTestBothSided.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
-          <caret line="39" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <caret line="39" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding>
             <marker date="1516692444121" expanded="true" signature="0:152" ph="/* Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld' ... */" />
             <marker date="1516692444121" expanded="true" signature="214:3044" ph="{...}" />
@@ -315,7 +399,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaBlendBothSided.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+          <caret line="18" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
           <folding>
             <marker date="1516693226974" expanded="true" signature="61:4554" ph="{...}" />
             <marker date="1516693226974" expanded="true" signature="75:234" ph="{...}" />
@@ -326,6 +410,63 @@
             <marker date="1516693226974" expanded="true" signature="2574:4512" ph="{...}" />
             <marker date="1516693226974" expanded="true" signature="2788:4503" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspace/ARCat-Android/arcat/Assets/_MK/MKGlassFree/Shader/MKGlassFree.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="46" column="53" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="53" />
+          <folding>
+            <marker date="1516696305082" expanded="true" signature="23:12010" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="38:1037" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="1040:1239" ph="/* SM 3.0 ... */" />
+            <marker date="1516696305082" expanded="true" signature="1252:4464" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="1411:1647" ph="/* Grab Refraction ... */" />
+            <marker date="1516696305082" expanded="true" signature="1700:2156" ph="/* VERTEX LIT ... */" />
+            <marker date="1516696305082" expanded="true" signature="2166:2672" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="2322:2663" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="2676:2882" ph="/* FORWARD ADD ... */" />
+            <marker date="1516696305082" expanded="true" signature="2892:3411" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="3087:3402" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="3415:3860" ph="/* TODO deferred shading pass ... */" />
+            <marker date="1516696305082" expanded="true" signature="3865:4064" ph="/* META ... */" />
+            <marker date="1516696305082" expanded="true" signature="4074:4458" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="4176:4449" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="4468:4676" ph="/* SM 2.5 - Mobile ... */" />
+            <marker date="1516696305082" expanded="true" signature="4689:8049" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="4848:5084" ph="/* Grab Refraction ... */" />
+            <marker date="1516696305082" expanded="true" signature="5137:5593" ph="/* VERTEX LIT ... */" />
+            <marker date="1516696305082" expanded="true" signature="5603:6154" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="5759:6145" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="6158:6364" ph="/* FORWARD ADD ... */" />
+            <marker date="1516696305082" expanded="true" signature="6374:6932" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="6569:6923" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="6936:7649" ph="/* TODO deferred shading pass ... */" />
+            <marker date="1516696305082" expanded="true" signature="7659:8043" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="7761:8034" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="8052:8281" ph="/* SM 2.0 Very Old - Skip some features ... */" />
+            <marker date="1516696305082" expanded="true" signature="8294:11918" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="8453:8689" ph="/* Grab Refraction ... */" />
+            <marker date="1516696305082" expanded="true" signature="8903:9108" ph="/* VERTEX LIT ... */" />
+            <marker date="1516696305082" expanded="true" signature="9255:9462" ph="/* FORWARD BASE ... */" />
+            <marker date="1516696305082" expanded="true" signature="9472:10023" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="9628:10014" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="10027:10233" ph="/* FORWARD ADD ... */" />
+            <marker date="1516696305082" expanded="true" signature="10243:10801" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="10438:10792" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="10805:11518" ph="/* TODO deferred shading pass ... */" />
+            <marker date="1516696305082" expanded="true" signature="11528:11912" ph="{...}" />
+            <marker date="1516696305082" expanded="true" signature="11630:11903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unity3D_Shader.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
