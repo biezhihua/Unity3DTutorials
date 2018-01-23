@@ -12,7 +12,32 @@
 		    
 		    ZWrite Off
 		    
-		    Blend SrcAlpha OneMinusSrcAlpha, One Zero
+		    //Blend SrcAlpha OneMinusSrcAlpha, One Zero
+            // 正常(Normal), 即透明度混合
+            // Blend SrcAlpha OneMinusSrcAlpha
+            
+            // 柔和相加 Soft Additive
+            // Blend OneMinusDstColor One
+            
+            // 正片叠底(Multiply) 相乘
+            // Blend DstColor One
+            
+            // 两倍相乘(2x Multiply)
+            // Blend DstColor SrcColor
+            
+            // 变暗 Darken
+            // BlendOp Min
+            // Blend One One
+            
+            // 变亮 Lighten
+            // BlendOp Max
+            // Blend One One
+            
+            // 滤色
+            // Blend OneMinusDstColor One
+            
+            // 线性减淡
+            Blend One One 
 		    
 		    CGPROGRAM
 		    
